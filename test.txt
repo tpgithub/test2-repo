@@ -1,1 +1,7 @@
 test2 repo test.txt
+
+ * this is first line
+ * this is second line
+ * this is third line
+
+End of test.txt
