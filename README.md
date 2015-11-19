@@ -12,3 +12,4 @@
  * Nine Courses
  * Goes from raw data to data products
 
+Project work has to be submitted.
